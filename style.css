@@ -11,7 +11,7 @@ h1 {
     color: orange;
 }
 
-section {
+.flexible-container {
     display: flex;
     padding-top: 15px;
     margin-bottom: 150px;
